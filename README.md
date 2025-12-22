@@ -51,6 +51,7 @@ On the first day, I officially started the Bridgelabz Training Program for Capge
  3. Understanding code tracking and collaboration using Git
 
  4.Explanation of project structure and coding standards to ensure clean, organized, and maintainable code
+ 
 
 📋 📌 Day 2 – 17 December 2025
 

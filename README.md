@@ -129,11 +129,24 @@ Improved problem-solving skills by writing optimized and structured Java program
 
 Implemented multiple programs to demonstrate effective control of program execution flow
 
-Organized all Level 3 Control Flow assignments inside the same repository link:
-https://github.com/pratyushjadonn/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+Organized all Level 3 Control Flow assignments inside the same repository link: https://github.com/pratyushjadonn/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/control-flow
+
+Also done 2 scenerio based question : link : https://github.com/pratyushjadonn/BridgeLabz-Training/tree/core-java-practice/core-java-practice/scenario-based
 
 📋 📌 Day 6 – 21 December 2025
 
 On the sixth day of training, I completed the Level 1 and Level 2 assignments of the Arrays module. This session focused on understanding array fundamentals in Java, including declaration, initialization, and traversal techniques. I practiced solving problems involving single-dimensional arrays to strengthen my logic-building and data handling skills. Through these assignments, I improved my ability to perform operations such as accessing elements, iterating using loops, and applying basic problem-solving strategies. All array-related assignments were properly organized inside the GCR folder to maintain a structured and readable codebase.
 
 link : https://github.com/pratyushjadonn/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/arrays
+
+📋 📌 Day 7 – 22 December 2025
+
+On the seventh day of training, I completed the Level 1 assignments of the Strings module. This session focused on understanding string fundamentals in Java, including string creation, immutability, and commonly used string methods. I practiced solving problems related to string traversal, comparison, concatenation, and basic manipulations to enhance my logical thinking and text-processing skills. Through these assignments, I improved my ability to work with character sequences and apply string operations effectively in problem-solving scenarios. All string-related Level 1 assignments were properly organized inside the GCR folder within the core-java-practice directory to maintain a clean and structured codebase.
+
+🔗 Link: https://github.com/pratyushjadonn/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string
+
+📋 📌 Day 8 – 23 December 2025
+
+On the eighth day of training, I successfully completed the Level 2 and Level 3 assignments of the Strings module. This session focused on advanced string operations in Java, including pattern-based logic, character frequency analysis, substring handling, and efficient manipulation of string data. I practiced solving more complex problems that required combining multiple string concepts and applying optimized logic. Through these assignments, I strengthened my problem-solving abilities and gained deeper confidence in handling real-world string-based scenarios. All Level 2 and Level 3 string assignments were systematically organized inside the GCR folder within the core-java-practice directory to ensure a well-structured and maintainable codebase.
+
+🔗 Link: https://github.com/pratyushjadonn/BridgeLabz-Training/tree/core-java-practice/core-java-practice/gcr-codebase/string

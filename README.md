@@ -1,8 +1,8 @@
-Bridgelabz Java Training – Capgemini
+Bridgelabz Training 
 
 Name: Pratyush Jadon
 
-Training Program: Bridgelabz – Capgemini
+Training Program: Bridgelabz – Training
 
 Start Date: 16 December 2025
 
@@ -42,7 +42,7 @@ BRIDGELABZ-TRAINING
 
 📋 📌 Day 1 – 16 December 2025
 
-On the first day, I officially started the Bridgelabz Training Program for Capgemini. The focus of the session was on building a strong foundational understanding of the tools and practices required for the training.
+On the first day, I officially started the Bridgelabz Training Program . The focus of the session was on building a strong foundational understanding of the tools and practices required for the training.
 
  1.Introduction to the Java development environment, including setup and configuration
 

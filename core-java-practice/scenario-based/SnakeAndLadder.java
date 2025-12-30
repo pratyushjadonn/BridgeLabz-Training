@@ -11,7 +11,7 @@ public class SnakeAndLadder {
 		Random random=new Random();
 		int finalPosition=100;
 		//Use case 4 : Repeat till the player reaches the winning position 100
-		while(playerPosition<finalPosition) {
+		while(playerPosition<finalPosition) { 
 			int dice=random.nextInt(6)+1;  //dice roll
 			System.out.println("Dice rolled : "+dice);
 			//Use case 3 : Player checks for the options between no play , ladder or snake bite
@@ -22,6 +22,10 @@ public class SnakeAndLadder {
 			else if(option==1) {
 				System.out.println("Option : Ladder ");
 				playerPosition+=dice;
+				//Use Case 5 :Player gets the exact winning position
+				if(playerPosition>finalPosition) {
+					playerPosition-=dice;
+				}
 			}
 			else {
 				System.out.println("Option:Snake");

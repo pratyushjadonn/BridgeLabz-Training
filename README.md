@@ -375,7 +375,7 @@ BridgeLabz-Training/
 - Gas Station
 
 **Code links**
-- [encapsulation-polymorphism-Interface-AbstractClass](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism-Interface-AbstractClass)
+- [encapsulation-polymorphism-Interface-AbstractClass](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/encapsulation-polymorphism)
 - [scenario-based](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
 - [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/leet-code-codebase)
 
@@ -587,6 +587,6 @@ BridgeLabz-Training/
 ---
 
 ## 👩‍💻 Author
-**Shagun Sharma**
+**Pratyush Jadon**
 
 Maintaining daily updates to track learning progress and hands-on practice 📈

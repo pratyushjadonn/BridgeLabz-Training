@@ -42,10 +42,36 @@ BridgeLabz-Training/
 │   ├── scenario-based/          # Scenario-based & real-world logic problems
 │   └── leetcode-code-codebase/  # Daily DSA practice 
 |
-| 
+├── dsa-practice/
+│   ├── gcr-codebase/
+|   |      ├── o-notation/
+|   |      ├── InputStream/
+|   |      ├── hashmap/
+|   |      ├── LinearSearch_BinarySearch/
+|   |      ├── linked-list/
+|   |      ├── sorting/
+|   |      ├── stack-queue/
+|   |      ├── StringBuilderAndStringBuffer/
+|   |
+|   |
+|   ├── leet-code-codebase/          # Daily DSA practice
+│   └── scenario-based/                  # Scenario-based & real-world logic problems|
+|      
+|                 
+|
+├── collections-practice/
+│   ├── gcr-codebase/
+|   |      ├── generic/
+|   |      ├── collections/
+|   |      ├── streams/
+|   |      ├── exceptions/
+|   |
+|   ├── leetcode-code-codebase/          # Daily DSA practice
+│   └── scenario-based/                  # Scenario-based & real-world logic problems
+|
+|     
 ├── reviews/                     # for reviews done in the classroom
-└── README.md
-
+└── README.md/
 ```
 # <u>DAILY ACTIVITY LOG</u>
 ## WEEK-1
@@ -573,6 +599,449 @@ BridgeLabz-Training/
 
 **Code Links**
 - [scenario-based](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based)
+
+---
+
+### Day 23 (14-01-2026) – Stacks, Queues & Hash Maps Practice
+**(`dsa-practice`)**
+
+🔹 Sample Problems for Stacks and Queues
+1. Implement a Queue Using Stacks
+2. Sort a Stack Using Recursion
+3. Stock Span Problem
+4. Sliding Window Maximum
+5. Circular Tour Problem
+
+🔹 Sample Problems for Hash Maps & Hash Functions
+1. Find All Subarrays with Zero Sum
+2. Check for a Pair with Given Sum in an Array
+3. Longest Consecutive Sequence
+4. Implement a Custom Hash Map
+5. Two Sum Problem
+
+🔹 LeetCode Practice (2)
+- Two Sum – LeetCode 1
+- Ransom Note – LeetCode 383
+
+**Code Links**
+- [stack-queue](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/stack-queue)
+- [hashmap](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/hashmap)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+### Day 24 (15-01-2026) – Sorting Algorithms & LeetCode Practice
+**(`dsa-practice`)**
+
+🔹 Sorting Algorithms Practice
+- Bubble Sort
+- Selection Sort
+- Insertion Sort
+- Merge Sort
+- Quick Sort
+- Heap Sort
+- Count Sort
+
+🔹 LeetCode Practice (2)
+1. Next Greater Element I – LeetCode 496
+2. Daily Temperatures – LeetCode 739
+
+
+**Code Links**
+- [sorting-algorithms](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/sorting)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+
+---
+
+### Day 25 (16-01-2026) – Java I/O & String Manipulation Practice
+**(`dsa-practice`)**
+
+🔹 StringBuilder Practice
+- Reverse a String Using StringBuilder
+- Remove Duplicates from a String Using StringBuilder
+
+🔹 StringBuffer Practice
+- Concatenate Strings Efficiently Using StringBuffer
+- Compare StringBuffer and StringBuilder for Concatenation
+
+🔹 FileReader Practice
+- Read a File Line by Line
+- Count Occurrences of a Word in a File
+
+🔹 InputStreamReader Practice
+- Convert Byte Stream to Character Stream
+- Read User Input and Write to File
+
+🔹 Challenge Problem: Compare StringBuilder, StringBuffer, FileReader, and InputStreamReader
+
+🔹 LeetCode Practice
+- Reverse Words in a String – LeetCode 151
+- Add Strings – LeetCode 415
+
+
+**Code Links**
+- [StringBuilderAndStringBuffer](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/StringBuilderAndStringBuffer)
+- [InputStream](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/InputStream)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+
+### Day 26 (17-01-2026) – Linear & Binary Search , Address Book (3 Use Cases) & leetcode problem
+**(`oops-practice`)**
+
+🔹 Linear Search Practice
+- Search for the First Negative Number
+- Search for a Specific Word in a List of Sentences
+
+🔹 Binary Search Practice
+- Find the Rotation Point in a Rotated Sorted Array
+- Find a Peak Element in an Array
+- Search for a Target Value in a 2D Sorted Matrix
+- Find First and Last Occurrence of an Element
+
+🔹 Challenge Problem (Linear + Binary Search)
+- Linear Search: Find the first missing positive integer.
+- Binary Search: Find the index of a target in a sorted array.
+
+🔹 Use Cases – Address Book
+- UC1 – Create Contacts (Add first/last name, address, city, state, zip, phone, email)
+- UC2 – Add a New Contact (Add person details via console using AddressBookMain)
+- UC3 – Edit Existing Contact (Edit contact details via console using person’s information)
+
+🔹 LeetCode Practice
+- Binary Search – LeetCode 704
+- Search Insert Position – LeetCode 35
+
+
+**Code Links**
+- [LinearSearch_BinarySearch](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/LinearSearch_BinarySearch)
+- [AddressBook](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBookProblem)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/leet-code-codebase)
+
+---
+
+## WEEK-6
+
+### Day 27 (19-01-2026) – Address Book (4,5 Use Case) & Runtime Analysis
+**(`dsa-practice`)**
+
+🔹 Use Cases – Address Book
+- UC4 – Delete a Contact: Delete a person using person’s name via console
+- UC5 – Add Multiple Contacts: Add multiple contacts one at a time; use Collection class to maintain multiple contact persons
+
+
+🔹 Runtime Analysis – DSA Problems
+- Search a Target in a Large Dataset using linear and binary search
+- Sorting Large Data Efficiently using bubble sort , merge sort and quick sort
+- String Concatenation Performance using strings ,string builder and string buffer
+- Large File Reading Efficiency using file reader and input stream reader
+- Recursive vs Iterative Fibonacci computation
+- Comparing Different Data Structures for Searching
+
+
+**Code Links**
+- [AddressBook](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/gcr-codebase/AddressBookProblem)
+- [RuntimeAnalysisBigONotation](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/gcr-codebase/o-notation)
+
+
+---
+
+### Day 28 (20-01-2026) – Scenario Based Questions
+**(`dsa-practice`)**
+
+🔹 Scenario Based Questions
+- BankingAccountHierarchy – Added implementation of banking account hierarchy with classes and inheritance
+- BookShelf – Added implementation of book shelf with add, remove, and display book functionality
+- BrowserBuddy – Added implementation of browser buddy with tab management and history tracking
+- CinemaTime – Added implementation of cinema time booking system with seat selection and timing management
+- EmployeeRole – Added implementation of employee roles with role assignment and hierarchy
+- ExamProctor – Added implementation of exam proctor system with scheduling and monitoring features
+- ParcelTracker – Added implementation of parcel tracker with status update and delivery history
+- TrafficManager – Added implementation of traffic manager with vehicle tracking and congestion management
+
+**Code Links**
+- [DSAScenarioBased](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based)
+
+
+---
+
+### Day 29 (21-01-2026) – Collections & Generics Practice
+**(`collections-practice`)**
+
+🔹 Generic & Collection-Based Systems
+- Smart Warehouse Management System ( Implemented a type-safe warehouse system to manage different item categories like Electronics, Groceries, and Furniture.)
+- Dynamic Online Marketplace ( Built a generic product catalog supporting Books, Clothing, and Gadgets. ) 
+- Multi-Level University Course Management System ( Developed a course management system for multiple departments and evaluation styles.)
+- Personalized Meal Plan Generator ( Designed a meal plan generator supporting Vegetarian, Vegan, Keto, and High-Protein meal plans.)
+- AI-Driven Resume Screening System ( Developed a resume screening system for roles such as Software Engineer, Data Scientist, and Product Manager.)
+
+🔹 LeetCode – Array & Collection Problems
+- Contains Duplicate - Leetcode 217
+- Intersection of Two Arrays - Leetcode 349
+
+**Code Links**
+- [generic](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/generic)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+---
+
+### Day 30 (22-01-2026) – List, Set, Queue & Map Interface Practice
+**(`collections-practice`)**
+
+🔹 List Interface
+- Reverse a List
+- Find Frequency of Elements
+- Rotate Elements in a List
+- Remove Duplicates While Preserving Order
+- Find the Nth Element from the End
+
+🔹 Set Interface
+- Check if Two Sets Are Equal
+- Union and Intersection of Sets
+- Symmetric Difference
+- Convert Set to Sorted List
+- Subset Check
+
+🔹 Queue Interface
+- Reverse a Queue
+- Generate Binary Numbers
+- Hospital Triage System
+- Stack Using Queues
+- Circular Buffer Simulation
+
+🔹 Map Interface
+- Word Frequency Counter
+- Invert a Map
+- Find Key with Highest Value
+- Merge Two Maps
+- Group Objects by Property
+
+🔹 LeetCode – Collections Based Problems
+- Kth Largest Element in an Array – LeetCode 215
+- Find Median from Data Stream – LeetCode 295
+
+**Code Links**
+- [collections](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/collections)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+
+---
+
+### Day 31 (23-01-2026) – Scenario-Based Collections (Set/Map) & HashMap LeetCode Practice
+**(`collections-practice`)**
+
+🔹java_streams
+- Implemented file read/write using different I/O streams
+- Used buffering for optimized file processing
+- Applied serialization and deserialization
+- Implemented inter-thread communication using streams
+- Handled checked exceptions effectively
+- Processed large files safely and efficiently
+
+**Code Links**
+- [streams](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/streams)
+
+---
+
+## WEEK-7
+
+### Day 32 (27-01-2026) – Exception Handling, Core Java Scenarios
+**(`collections-practice & core-java-practice`)**
+
+🔹 Java Exception Handling
+- Practiced checked, unchecked, and custom exceptions
+- Implemented try–catch, multiple catch blocks, finally, and try-with-resources
+- Demonstrated exception propagation
+- Used custom exceptions for validation and error handling
+
+🔹 Core Java Scenario-Based Program
+- Implemented LexicalTwist scenario-based Java program
+- Added input validation and reverse-word checking
+- Performed vowel and consonant analysis
+- Produced conditional output based on string characteristics
+
+**Code Links**
+- [exceptions](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/exceptions)
+- [Lexical Twist](https://github.com/pratyushjadonn/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/LexicalTwist.java)
+
+
+---
+
+### Day 33 (28-01-2026) – String Manipulation, Collections & LeetCode
+**(`core-java-practice & collections-practice`)**
+
+🔹 Core Java – Flip Key Logic(String & ASCII Manipulation)
+- Converted input to lowercase
+- Removed characters with even ASCII values
+- Reversed the remaining characters
+- Converted characters at even indices (0-based) to uppercase
+
+🔹 Collections – Scenario-Based Programs
+
+1. Restaurant Table Reservation System
+- Designed table reservation system using:
+- Map<Integer, Table> for table tracking
+- List<Reservation> for reservations
+- Implemented core functionalities:reserveTable(),cancelReservation(),showAvailableTables()
+- Created and threw custom TableAlreadyReservedException
+
+2. File Backup Scheduler
+- Scheduled backup tasks using PriorityQueue<BackupTask>
+- Assigned higher priority to critical folders
+- Implemented Comparable for priority-based execution
+- Validated backup paths
+- Created and threw InvalidBackupPathException
+- Executed backup tasks in correct priority order
+
+🔹 LeetCode – Array & Collection Problems
+- Longest Consecutive Sequence - Leetcode 128
+- Majority Element - Leetcode 169
+
+**Code Links**
+- [FlipKeyLogic](https://github.com/pratyushjadonn/BridgeLabz-Training/blob/core-java-practice/core-java-practice/scenario-based/FlipKeyLogicalProblem.java)
+- [RestaurantTableReservationSystem](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/RestaurantTableReservationSystem.java)
+- [FileBackupScheduler](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/FileBackupSystem.java)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+---
+
+### Day 34 (29-01-2026) – Regular Expressions
+**(`collections-practice`)**
+
+🔹Validation Problems
+1. Validate a Username
+2. Validate a License Plate Number
+3. Validate a Hex Color Code
+
+🔹Extraction Problems
+4. Extract All Email Addresses from a Text
+5. Extract All Capitalized Words from a Sentence
+6. Extract Dates in dd/mm/yyyy Format
+7. Extract Links from a Web Page
+
+🔹Replace and Modify Strings
+8. Replace Multiple Spaces with a Single Space
+9. Censor Bad Words in a Sentence
+
+🔹Advanced Problems
+10. Validate an IP Address
+11. Validate a Credit Card Number (Visa, MasterCard, etc.)
+12. Extract Programming Language Names from a Text
+13. Extract Currency Values from a Text
+14. Find Repeating Words in a Sentence
+15. Validate a Social Security Number (SSN)
+
+**Code Links**
+- [Regex](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/regex)
+
+---
+
+### Day 35 (30-01-2026) – Regular Expressions
+**(`oops-practice & collections-practice`)**
+
+🔹Future Logistics - Scenario-based
+- OOP with abstraction & inheritance
+- Brick & Timber transport handling
+- Vehicle-based charge calculation
+- Transport ID validation & billing output
+
+🔹 LeetCode – Collection Problems
+- Maximum Number of Balls in a Box - Leetcode 1742
+- Find Disappeared Numbers - Leetcode 448
+
+**Code Links**
+- [Future Logistics](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/oops-practice/oops-practice/scenario-based/FutureLogistics)
+- [leetcode](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/leet-code-codebase)
+
+
+---
+
+### Day 36 (02-02-2026) – Annotations & Reflection / CSV Handling
+**(`collections-practice & io-programming-practice`)**
+
+🔹Reflection in Java – Basic Level
+- Get Class Information
+- Access Private Field
+- Invoke Private Method
+- Dynamically Create Objects
+
+🔹Reflection in Java – Intermediate Level
+- Dynamic Method Invocation
+- Retrieve Annotations at Runtime
+- Access and Modify Static Fields
+
+🔹Reflection in Java – Advanced Level
+- Custom Object Mapper
+- Generate JSON Representation
+- Custom Logging Proxy
+- Dependency Injection using Reflection
+- Method Execution Timing
+
+🔹Annotations Practice
+- Use @Override Correctly
+- Use @Deprecated to Mark Old Methods
+- Suppress Unchecked Warnings
+- Create a Custom Annotation and Use It
+- Create and Use a Repeatable Annotation
+
+🔹Custom Annotations – Beginner Level
+- @ImportantMethod
+- @Todo
+
+🔹Custom Annotations – Intermediate Level
+- @LogExecutionTime
+- @MaxLength
+
+🔹Custom Annotations – Advanced Level
+- @RoleAllowed
+- @JsonField
+- @CacheResult
+
+🔹CSV Data Handling – Basic Problems
+- Read a CSV File and Print Data
+- Write Data to a CSV File
+- Read and Count Rows in a CSV File
+
+🔹CSV Data Handling – Intermediate Problems
+- Filter Records from CSV
+- Search for a Record in CSV
+- Modify a CSV File
+- Sort CSV Records by a Column
+
+🔹CSV Data Handling – Advanced Problems
+- Validate CSV Data Before Processing
+- Convert CSV Data into Java Objects
+- Merge Two CSV Files
+- Read Large CSV File Efficiently
+- Detect Duplicates in a CSV File
+- Generate a CSV Report from Database
+- Convert JSON to CSV and Vice Versa
+- Encrypt and Decrypt CSV Data
+
+**Code Links**
+- [Reflections](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/reflections)
+- [Annotaions](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/gcr-codebase/annotations)
+- [CSV](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/io-programming-practice/io-programming-practice/gcr-codebase/csv)
+
+---
+
+### Day 37 (03-02-2026) – Scenario-based
+**(`dsa-practice & collections-practice`)**
+
+🔹 Scenario-Based – DSA Practice
+- Factory Robot Hazard Analyzer (Evaluates a factory robot’s hazard risk based on arm precision, worker density, and machinery state using custom exception handling and validation rules.)
+- AeroVigil – Flight Validation System (Validates flight details (flight number, name, passenger capacity, fuel level) using regex and custom exceptions, and calculates required fuel if all checks pass.)
+
+🔹 Scenario-Based – Collections Practice
+- StreamBuzz - Creator Engagement Analyzer (Tracks creators’ weekly likes, identifies top-performing posts based on thresholds, and calculates overall average engagement using collections.)
+
+**Code Links**
+- [FactoryRobotHazardAnalyzer](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/FactoryRobotHazardAnalyzer)
+- [AeroVigil](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/dsa-practice/dsa-practice/scenario-based/AeroVigil)
+- [StreamBuzz](https://github.com/pratyushjadonn/BridgeLabz-Training/tree/collections-practice/collections-practice/scenario-based/StreamBuzz)
+
 
 ---
 

@@ -1,0 +1,13 @@
+# Compiled class files
+*.class
+
+# Eclipse output folder
+bin/
+
+# Eclipse config
+.classpath
+.project
+.settings/
+
+# Maven
+target/

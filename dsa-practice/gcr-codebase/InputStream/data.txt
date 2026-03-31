@@ -1,0 +1,32 @@
+FileReader and InputStreamReader in Java
+
+FileReader and InputStreamReader are Java classes used to read data from files and input streams. Both are part of Java’s I/O (Input/Output) system and are mainly used for reading character data.
+
+FileReader
+
+FileReader is a character stream class used to read text files directly.
+
+Key Points:
+
+Reads data character by character
+
+Used mainly for text files
+
+Uses the default character encoding of the system
+
+Simple and easy to use for small or medium-sized files
+
+Example Use Case:
+Reading a text file like .txt, .csv, or .log.
+
+Advantages:
+
+Easy syntax
+
+Suitable for basic file reading
+
+Disadvantages:
+
+Cannot handle different encodings efficiently
+
+Less flexible compared to InputStreamReader

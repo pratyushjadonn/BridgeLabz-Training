@@ -1,0 +1,5 @@
+This is a sample line used to test large file reading efficiency.
+Java FileReader and InputStreamReader performance comparison.
+Operating Systems and File I/O runtime analysis.
+Big O Notation practical experiment.
+---------------------------------------------------------------

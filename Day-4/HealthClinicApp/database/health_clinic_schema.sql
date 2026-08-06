@@ -1,9 +1,10 @@
 -- Step 1 (Basement) — Create the Database and Tables
+DROP DATABASE IF EXISTS health_clinic_db;
 CREATE DATABASE IF NOT EXISTS health_clinic_db;
 USE health_clinic_db;
 
 -- Create application user (Uncomment to create user if needed)
-CREATE USER IF NOT EXISTS 'health_clinic'@'localhost' IDENTIFIED BY 'Shyam@123';
+CREATE USER IF NOT EXISTS 'health_clinic'@'localhost' IDENTIFIED BY 'Parth@123';
 GRANT ALL PRIVILEGES ON health_clinic_db.* TO 'health_clinic'@'localhost';
 FLUSH PRIVILEGES;
 

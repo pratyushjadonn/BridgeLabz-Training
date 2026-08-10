@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Greeting</title>
+    <link rel="stylesheet" th:href="@{/css/style.css}">
+</head>
+<body>
+    <div class="card">
+        <h1 th:text="${salutation} + ', ' + ${name} + '!'">Hello!</h1>
+        <p>Welcome to My Greetings App.</p>
+        <a class="back-link" href="/">&larr; Try another name</a>
+    </div>
+</body>
+</html>
